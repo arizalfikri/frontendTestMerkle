@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "arizalfikri33@gmail.com",
+      "password": "$2a$10$cEDTIGLAn.DYanZaCODQe.yYzfeY1.kbysRUCrshK9OxPp8dHPfca",
+      "id": 1
+    },
+    {
+      "email": "arbusbang@coba.com",
+      "password": "$2a$10$kWPMiKMiSNJqQWzqZa.l3.jFjKd/3XYTMN48oFOVjVmIUJnec29S.",
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$k3pni08av7PSHxVY9eIJdef2uX.JwTE.zuYZN4GH3U2bWnrJktKPG",
+      "id": 3
+    },
+    {
+      "email": "testlagi@mail.com",
+      "password": "$2a$10$7giAuO1K0cUaHSUr63FEF.M9zBCocigRVnKgVWITBZQ6K/RyCP5vS",
+      "id": 4
+    },
+    {
+      "email": "belum@mail.com",
+      "password": "$2a$10$1Ox.VLr.qW7xfi2jDljVXehwecSlYWGfkCvPYxbyIVU93rbQQCdyq",
+      "id": 5
+    }
+  ]
+}
